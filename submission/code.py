@@ -37,8 +37,8 @@ while True:
     elif option ==2:
         set_color((0, 255, 0))  
     elif option == 3:
-        set_color((0, 0, 255))  # Blue
-    else: # else function for invalid input
+        set_color((0, 0, 255))
+    else: 
         print("Invalid choice. Please enter 1, 2, or 3.")
     
     
